@@ -1,0 +1,5 @@
+user = "aulaspl"
+password = "aulaspl"
+host = "db"
+port = "5432"
+database = "dbfichas"
